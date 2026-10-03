@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of mshuo/reply-to-see.** Not for installation: use [Packagist](https://packagist.org/packages/mshuo/reply-to-see) or the [upstream repository](https://github.com/MShuoo/reply-to-see).
 
-**0** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/mshuo-reply-to-see/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^1.8`
+**4** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/mshuo-reply-to-see/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2025-09-17 | `^1.8` | [Browse](https://github.com/flarchive/mshuo-reply-to-see/tree/archive/v1.0.0) |
+| `v1.0.1` | 2025-09-18 | `^1.8` | [Browse](https://github.com/flarchive/mshuo-reply-to-see/tree/archive/v1.0.1) |
+| `v1.0.2` | 2025-09-18 | `^1.8` | [Browse](https://github.com/flarchive/mshuo-reply-to-see/tree/archive/v1.0.2) |
+| `v1.0.3` | 2025-09-19 | `^1.8` | [Browse](https://github.com/flarchive/mshuo-reply-to-see/tree/archive/v1.0.3) |
 
 Catalog entry: [packages/mshuo-reply-to-see.json](https://github.com/flarchive/archive-index/blob/main/packages/mshuo-reply-to-see.json)
 
